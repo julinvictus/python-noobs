@@ -1,0 +1,43 @@
+# Python words and characters
+
+" double quote"
+# hashtag
+= equal
++ plus
+- minus
+/ slash
+* star sign
+% percent
+< less than
+> greater than
+<= less than equal
+>= greater than equal
+_ underscore
+(parenthesis )
+, comma
+\ back slash
+\\ double back slash
+
+print > show things on the screen
+string > anything bet double quotes
+variable > anything that goes after =
+format specifiers > string - %s
+                    int - %d
+                    float - %f
+                    representation - %r (exactly same kind of value a variable has, can be any of the 3)
+\n > skip line
+raw_input > take input from the user
+argv > argument variable
+from sys import > importing sys module (sys is a "feature")
+open > open a file
+read > read a file
+readline > read just one line
+truncate > empty the file
+write > write stuff to the file
+close > close the file
+exists > says if a file exists or not (T or F)
+import > bring previously done code to yr code
+def > define/create a function
+rewind > rewind a file
+seek > go to a specific part of a file
+return > show the result of a math calculation
